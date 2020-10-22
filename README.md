@@ -1,3 +1,0 @@
-# celesteneue
-
-personal website
