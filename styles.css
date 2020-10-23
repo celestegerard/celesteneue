@@ -1,0 +1,61 @@
+.welcome {
+margin-left: 50px;
+font-family: Crimson Pro;
+font-weight: 100;
+font-size: 18px;
+line-height: 1.18px;
+color: rgba(0, 0, 0, 0.60)
+}
+
+.work {
+position: absolute;
+width: 62px;
+height: 23px;
+left: 1361px;
+top: 18px;
+
+font-family: Crimson Pro;
+font-weight: 100;
+font-size: 18px;
+line-height: 20px;
+
+color: #8EBAC8;
+
+}
+
+.about {
+position: absolute;
+width: 62px;
+height: 23px;
+left: 1300px;
+top: 18px;
+
+font-family: Crimson Pro;
+font-style: normal;
+font-weight: 100;
+font-size: 18px;
+line-height: 20px;
+
+color: rgba(0, 0, 0, 0.58)
+
+}
+
+.work-panel {
+  height: 575px;
+  background-color: #FCFCFC;
+}
+
+.header-left {
+  height: 200px;
+  border-bottom: solid 1px #FBFBFB;
+}
+
+.chiketto-panel {
+  height: 250px;
+  background-color: #FCE64D;
+}
+
+.chiketto-header {
+  font-size: 144px;
+  color: #F3AA73
+}
