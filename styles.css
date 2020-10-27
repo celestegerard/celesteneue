@@ -1,61 +1,66 @@
 .welcome {
-margin-left: 50px;
-font-family: Crimson Pro;
-font-weight: 100;
-font-size: 18px;
-line-height: 1.18px;
+  font-family: Crimson Pro;
+  font-weight: 100;
+  font-size: 18px;
+  line-height: 20px;
+padding-left: 50px;
+padding-top: 20px;
+display: inline-block;
+    margin: 0 auto;
+    float: left;
+    vertical-align: center;
 color: rgba(0, 0, 0, 0.60)
 }
 
 .work {
-position: absolute;
-width: 62px;
-height: 23px;
-left: 1361px;
-top: 18px;
 
 font-family: Crimson Pro;
 font-weight: 100;
 font-size: 18px;
 line-height: 20px;
+padding-right: 57px;
+padding-top: 20px;
+display: inline-block;
+margin: 0 auto;
+float: right;
+vertical-align: center;
 
 color: #8EBAC8;
 
 }
 
 .about {
-position: absolute;
-width: 62px;
-height: 23px;
-left: 1300px;
-top: 18px;
-
-font-family: Crimson Pro;
-font-style: normal;
-font-weight: 100;
-font-size: 18px;
-line-height: 20px;
+  font-family: Crimson Pro;
+  font-weight: 100;
+  font-size: 18px;
+  line-height: 20px;
+  padding-right: 1em;
+  padding-top: 20px;
+  display: inline-block;
+  margin: 0 auto;
+  float: right;
+  vertical-align: center;
 
 color: rgba(0, 0, 0, 0.58)
 
 }
 
-.work-panel {
-  height: 575px;
-  background-color: #FCFCFC;
+.Details {
+  font-family: Crimson Pro;
+  font-weight: 100;
+  font-size: 18px;
+  line-height: 24px;
+padding-left: 50px;
+padding-top: 20px;
+display: inline-block;
+    margin: 0 auto;
+    float: left;
+    vertical-align: center;
+color: rgba(0, 0, 0, 0.58)
 }
+
 
 .header-left {
-  height: 200px;
-  border-bottom: solid 1px #FBFBFB;
-}
-
-.chiketto-panel {
-  height: 250px;
-  background-color: #FCE64D;
-}
-
-.chiketto-header {
-  font-size: 144px;
-  color: #F3AA73
+  height: 105px;
+  border-bottom: solid 1px #FAFAFA;
 }
