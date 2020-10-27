@@ -59,6 +59,45 @@ display: inline-block;
 color: rgba(0, 0, 0, 0.58)
 }
 
+.details-right {
+
+font-family: Crimson Pro;
+font-weight: 100;
+font-size: 18px;
+line-height: 20px;
+padding-right: 57px;
+padding-top: 20px;
+display: inline-block;
+margin: 0 auto;
+float: right;
+vertical-align: center;
+
+color: rgba(0, 0, 0, 0.58)
+
+}
+
+.links {
+  box-sizing: border-box;
+  display: inline-block;
+  margin: 0 auto;
+  text-align: center;
+  color: rgba(0, 0, 0, 0.58)
+  text-decoration: underline;
+
+}
+
+.button{
+  font-family: Crimson Pro;
+  font-weight: 100;
+  font-size: 18px;
+  width: 40px;
+  height: 20px;
+  color: #004369;
+  border: .3px solid rgba(0, 0, 0, 0.58);
+  text-align: center;
+  float: right;
+}
+
 
 .header-left {
   height: 105px;
