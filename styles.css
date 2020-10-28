@@ -3,13 +3,13 @@
   font-weight: 100;
   font-size: 18px;
   line-height: 20px;
-padding-left: 50px;
-padding-top: 20px;
-display: inline-block;
-    margin: 0 auto;
-    float: left;
-    vertical-align: center;
-color: rgba(0, 0, 0, 0.60)
+  padding-left: 50px;
+  padding-top: 20px;
+  display: inline-block;
+  margin: 0 auto;
+  float: left;
+  vertical-align: center;
+  color: rgba(0, 0, 0, 0.60)
 }
 
 .work {
@@ -46,6 +46,10 @@ color: rgba(0, 0, 0, 0.60)
   vertical-align: center;
 
 }
+
+/* .mo-work-panel {
+  display: none;
+} */
 
 .about-text {
   font-family: Crimson Pro;
@@ -195,4 +199,138 @@ color: rgba(0, 0, 0, 0.58)
 .header-left {
   height: 105px;
   border-bottom: solid 1px #FAFAFA;
+}
+
+
+@media only screen and (max-device-width: 480px) {
+
+  .details-right {
+
+  font-family: Crimson Pro;
+  font-weight: 100;
+  font-size: 45px;
+  line-height: 55px;
+  padding-right: 57px;
+  padding-top: 20px;
+  display: inline-block;
+  margin: 0 auto;
+  float: right;
+  vertical-align: center;
+
+  color: rgba(0, 0, 0, 0.58)
+
+  }
+
+  .button{
+    font-family: Crimson Pro;
+    font-weight: 100;
+    font-size: 45px;
+    width: 100px;
+    height: 60px;
+    border: .3px solid rgba(0, 0, 0, 0.58);
+    text-align: center;
+    float: right;
+  }
+
+  .Details {
+    font-family: Crimson Pro;
+    font-weight: 100;
+    font-size: 45px;
+    line-height: 55px;
+  padding-left: 50px;
+  padding-top: 25px;
+  display: inline-block;
+      margin: 0 auto;
+      float: left;
+      vertical-align: center;
+  color: rgba(0, 0, 0, 0.58)
+  }
+
+  .header-left {
+    height: 250px;
+    border-bottom: solid 1px #FAFAFA;
+  }
+
+  .welcome {
+    font-family: Crimson Pro;
+    font-weight: 100;
+    font-size: 45px;
+    line-height: 55px;
+    padding-left: 50px;
+    padding-top: 20px;
+    display: inline-block;
+    margin: 0 auto;
+    float: left;
+    vertical-align: center;
+    color: rgba(0, 0, 0, 0.60)
+  }
+
+  .about-work-blue {
+    font-family: Crimson Pro;
+    font-weight: 100;
+    font-size: 45px;
+    line-height: 20px;
+    text-decoration: none;
+    color: #8EBAC8;
+  }
+
+  .about-work {
+    font-family: Crimson Pro;
+    font-weight: 100;
+    font-size: 45px;
+    line-height: 20px;
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.60)
+  }
+
+  .about {
+    padding-right: 40px;
+    padding-top: 30px;
+    display: inline-block;
+    margin: 0 auto;
+    float: right;
+    vertical-align: center;
+
+  }
+
+  .work {
+    padding-right: 50px;
+    padding-top: 30px;
+    display: inline-block;
+    margin: 0 auto;
+    float: right;
+    vertical-align: center;
+
+  }
+
+  .about-text {
+    font-family: Crimson Pro;
+    font-weight: 100;
+    font-size: 45px;
+    line-height: 20px;
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.60)
+  }
+
+  .about-text-blue {
+    font-family: Crimson Pro;
+    font-weight: 100;
+    font-size: 18px;
+    line-height: 20px;
+    text-decoration: none;
+    color: #8EBAC8;
+  }
+
+  .mo-work-panel {
+    float: center;
+    font-family: Crimson Pro;
+    font-weight: 100;
+    font-size: 18px;
+    text-decoration: none;
+  }
+
+  .work-panel {
+    display: none;
+  }
+
 }
