@@ -30,10 +30,6 @@ color: #8EBAC8;
 }
 
 .about {
-  font-family: Crimson Pro;
-  font-weight: 100;
-  font-size: 18px;
-  line-height: 20px;
   padding-right: 1em;
   padding-top: 20px;
   display: inline-block;
@@ -41,8 +37,25 @@ color: #8EBAC8;
   float: right;
   vertical-align: center;
 
-color: rgba(0, 0, 0, 0.58)
 
+}
+
+.about-text {
+  font-family: Crimson Pro;
+  font-weight: 100;
+  font-size: 18px;
+  line-height: 20px;
+  text-decoration: none;
+  color: rgba(0, 0, 0, 0.58)
+}
+
+.about-work {
+  font-family: Crimson Pro;
+  font-weight: 100;
+  font-size: 18px;
+  line-height: 20px;
+  text-decoration: none;
+  color: #8EBAC8;
 }
 
 .Details {
@@ -101,6 +114,50 @@ color: rgba(0, 0, 0, 0.58)
   background-color: #8EBAC8;
 }
 
+.work-panel {
+  float: center;
+  font-family: Crimson Pro;
+  font-weight: 100;
+  font-size: 18px;
+  text-decoration: none;
+  height: 380px;
+}
+
+.img-panel {
+  border-top: solid 1px #FAFAFA;
+  height: 575px;
+  text-align: center;
+}
+
+.img {
+  padding-top: 38px;
+  width: 20%;
+}
+
+.resume {
+  margin-top: 50px;
+  text-decoration: none;
+  color: #8EBAC8;
+}
+
+.about-p {
+  margin-top: 100px;
+  text-decoration: none;
+  color: rgba(0, 0, 0, 0.58);
+  line-height: 26px;
+  text-wrap: normal;
+}
+
+.about-p-div {
+  padding-left: 35%;
+  width: 30%;
+  position:absolute;
+}
+
+.download {
+  margin-top: 18px;
+  height: 16px;
+}
 
 .header-left {
   height: 105px;
