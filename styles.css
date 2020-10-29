@@ -51,6 +51,7 @@ color: rgba(0, 0, 0, 0.60)
 
 
 .about-text {
+  padding-top: 0px;
   font-family: Crimson Pro;
   font-weight: 100;
   font-size: 18px;
@@ -60,6 +61,7 @@ color: rgba(0, 0, 0, 0.60)
 }
 
 .about-text-blue {
+  padding-top: 0px;
   font-family: Crimson Pro;
   font-weight: 100;
   font-size: 18px;
@@ -69,6 +71,7 @@ color: rgba(0, 0, 0, 0.60)
 }
 
 .about-work {
+  padding-top: 0px;
   font-family: Crimson Pro;
   font-weight: 100;
   font-size: 18px;
@@ -78,6 +81,7 @@ color: rgba(0, 0, 0, 0.60)
 }
 
 .about-work-blue {
+  padding-top: 0px;
   font-family: Crimson Pro;
   font-weight: 100;
   font-size: 18px;
@@ -290,7 +294,7 @@ color: rgba(0, 0, 0, 0.58)
   }
 
   .mo-about-p {
-    display:block;
+    display: block;
     margin-top: 200px;
     text-decoration: none;
     color: rgba(0, 0, 0, 0.58);
