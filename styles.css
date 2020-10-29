@@ -253,6 +253,7 @@ color: rgba(0, 0, 0, 0.58)
   .mo-img {
     display:inline;
     padding-top: 160px;
+    padding-bottom: 160px;
     width: 55%;
   }
 
