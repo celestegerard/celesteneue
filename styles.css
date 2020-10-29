@@ -253,14 +253,14 @@ color: rgba(0, 0, 0, 0.58)
   .mo-img {
     display:inline;
     padding-top: 160px;
-    padding-bottom: 160px;
     width: 55%;
   }
 
   .mo-img-panel {
     display:inherit;
     border-top: solid 1px #000000;
-    height: 500px;
+    /* border-bottom: solid 1px #000000; */
+    height: 900px;
     text-align: center;
   }
 
