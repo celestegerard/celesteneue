@@ -1,4 +1,4 @@
 
 # Personal Portfolio Site
 
-celesteneue.com
+http://celesteneue.com
